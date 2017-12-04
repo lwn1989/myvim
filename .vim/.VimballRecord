@@ -1,0 +1,1 @@
+writebackup-3.01.vmb: call delete('/Users/WeinanLi/.vim/autoload/writebackup.vim')|call delete('/Users/WeinanLi/.vim/plugin/writebackup.vim')|call delete('/Users/WeinanLi/.vim/doc/writebackup.txt')
